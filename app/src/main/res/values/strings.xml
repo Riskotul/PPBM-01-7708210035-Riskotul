@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">7708210035_Riskotul_Assesment2</string>
+
+    //pasta
+    <string name="pastaIngredients">
+\n3 gram ragi + 1 sdt
+\nGula pasir + 150 ml air hangat kuku dan diamkan sampai berbuih
+\n250 gram terigu cakra
+\n5 gram garam
+\n15 gram minyak</string>
+    <string name="pastaDesc">Ulen semua bahan sampai kalis
+\nProofing 1 jam,
+\n Kempesin, lalu bagi menjadi 2 dan bulatkan.
+\nLalu diamkan kembali selama 15 menit
+\nCetak di pan pizza</string>
+    //maggi
+    <string name="maggiIngredients">1/2 kg ayam potong kecil
+\n1 bks mie kecil” yg sudah jadi beli di pasar
+\nsecukupnya garam dan gula dan kecap serta gula merah dan lada
+\n2 batang serai
+\n1 ruas kunyit
+\n1/2 ruas jahe
+\n5 siung bawang merah
+\n3 siung bawang putih
+</string>
+    <string name="maggieDesc">Potong ayam kecil”, sisihkan dahulu
+\nKemudian, tumis bumbu halus, dan masukkan batang serainya, tumis sampai harum
+\nMasukkan ayam yg sudah di potong”, kemudian tambahkan air, sampai menutupi ayam
+\nTambahkan kecap manis, gula merah, gula dan garam, masak hingga meresap
+\nSiapkan air untuk masak hingga mendidih untuk merebus mie dan sayur sawi..
+\nMasukkan mie dan jg sawi bersamaan, kira” hanya 20 detik, kemudian angkat dan sajikan.
+</string>
+    //cake
+    <string name="cakeIngredients">
+\n1 bh roti burger (aku pake bernardi)
+\n1 bh beef burger (bernardi)
+\n1/4 sdt mayonaise
+\n1 sdm saus pedas
+\n1/4 sdt parsley
+\n1 lembar selada, cincang kasar
+\nsecukupnya mentimun
+\nsecukupnya bawang putih
+\nsecukupnya tomat (aku ga pake, soalnya ga begitu suka)
+\n15 gr keju cheddar (potong atau parut ya opsional, aku di parut)
+\nsecukupnya butter / margarin
+    </string>
+    <string name="cakeDesc">Olesi roti dengan butter / margarin
+Panaskan teflon dengan api sangat kecil (biar matang merata, tp ga gosong ya)
+Panggang roti di atas teflon, sesekali di bolak balik. Kalo bagian putih roti nya udah kuning ke emasan angkat
+\nGoreng beef burger nya sampai merah gelap (tp ga sampe gosong jg 😅)
+\nAmbil mangkuk mini, campurkan secukup nya mayonnaise; saus sambal; parsley (bubuk). Aduk rata
+\nOlesi roti dengan bahan yg udah di mix (mayonnaise, saus sambal dan parsley)
+\nSusun selada, mentimun, bawang bombay, beef burger, parutan keju cheddar, lumuri dengan saus sambal lagi (jika suka pedas). Tutup dengan roti, siap di sajikan 😋
+    </string>
+    //pancake
+    <string name="pancakeIngredients">4 Saset kopi instan Nescafe classic @2 gr
+\n4 sdm gula pasir
+\n4 sdm air hangat
+\nSecukupnya susu cair UHT (saya pakai 250 ml)
+\nSecukupnya es batu (saya pakai 10 kotak kecil)
+    </string>
+    <string name="pancakeDesc">Siapkan wadah, masukkan gula pasir, kopi instant dan air hangat, lalu mixer.
+Mixer dengan kecepatan tinggi, kira-kira selama 5 sampai 6 menit.
+\nHingga hard peak (kaku), kalo dibalik tidak tumpah, matikan mixer. Siapkan gelas saji, lalu tuang es batu secukupnya.
+\nKemudian tuang susu cair UHT, lalu tata kopi yang tadi dimixer diatas susu.
+    </string>
+    //pizza
+    <string name="pizzaIngredients">2 Buah kentang ukuran besar
+\n1/2 Sendok teh kunyit bubuk
+\n1 Sendok makan tepung terigu
+\n2 Gelas air untuk merebus
+\n2 Gelas air untuk merebus</string>
+    <string name="pizzaDesc">Kupas dan potong-potong kentang, kemudian iris dengan bentuk stik setebal 0,5 cm sampai 1 cm. Segera masukkan ke dalam air setelah kentang diiris agar tidak berubah warna.
+Didihkan air rebusan, kemudian tambahkan 1/4 sendok teh kunyit bubuk agar kentang tidak terlalu pucat. Rebus kentang selama 3 atau 4 menit.
+Campur terigu dan garam, kemudian gulingkan kentang di atasnya. Aduk hingga seluruh bagian kentang terlumuri tepung dan garam.
+\nPanaskan minyak secukupnya, kemudian goreng kentang hingga berwarna kekuningan. Setelah itu angkat dan tiriskan minyaknya di atas kertas minyak atau kertas tisu.
+</string>
+    //burgers
+    <string name="burgerIngredients">3 sdm gula pasir
+\n10 sdm tepung terigu
+\n1 sdm Margarin
+\n1 butir telur pisah kuning dan putihnya
+\n2 sdm susu bubuk / 1 kotak kecil susu cair
+\nsecukupnya Air
+    </string>
+    <string name="burgerDesc">Campur terigu, gula pasir, kuning telur dan susu bubuk. Beri air secukupnya. Kalau kalian pakai susu cair full cream berarti gk usah pake air ya 🙃
+\nCairkan margarin dan dinginkan. Lalu campur dg adonan.
+\nPutih telur yg dipisah kocok lepas sampai berbusa banyak. (kalau bisa sampai 5 - 10 menit)lalu campur dg adonan. Aduk2 sampai rata.
+\nPanaskan teflon dg api kecil. (jgn terlalu kecil karna pancake nya nanti jadi kurang pori. Jgn terlalu besar jg karna bisa gosong 😂).
+\nAmbil adonan dg sendok sayur agar ukurannya rata. Kalau adonannya sudah kecoklatan balik sebentar supaya atasnya juga mateng sempurna.</string>
+    //fries
+    <string name="friesIngredients">Pasta
+\nKeju Krim
+\nKeju Parmesan
+\nMinyak Zaitun
+\nBawang putih
+\nGaram Lada</string>
+    <string name="friesDesc">Masak pasta Anda sampai al dente
+\nTumis’ bawang putih dengan minyak zaitun hingga harum
+\nTambahkan krim keju, air rebusan pasta, parmesan, lalu aduk rata
+\nTiriskan dan tambahkan pasta ke dalam wajan
+\nAduk hingga tercampur rata, tambahkan sedikit air pasta jika perlu</string>
+</resources>
